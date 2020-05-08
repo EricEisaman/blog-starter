@@ -15,5 +15,8 @@
     "gatsby-plugin-chakra-ui": "^0.1.4",
     "react": "^16.x",
     "react-dom": "^16.x"
+  },
+  "engines": {
+    "node": "^13.x"
   }
 }
