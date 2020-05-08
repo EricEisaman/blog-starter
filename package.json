@@ -13,7 +13,7 @@
     "emotion-theming": "^10.0.19",
     "gatsby": "2.15.0",
     "gatsby-plugin-chakra-ui": "^0.1.4",
-    "react": "link:../../node_modules/react",
-    "react-dom": "link:../../node_modules/react-dom"
+    "react": "^16.x",
+    "react-dom": "^16.x"
   }
 }
